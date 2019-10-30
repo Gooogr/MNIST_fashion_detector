@@ -10,8 +10,8 @@ from keras.models import load_model
 from keras.models import model_from_json
 import json
 
-model_weights_path = 'mnist_fashion_model.h5'
-model_json_path = 'mnist_fashion_model.json'
+model_weights_path = 'models_files/mnist_fashion_model.h5'
+model_json_path = 'models_files/mnist_fashion_model.json'
 
 fashion_dict = {0: 'T_shirt',
                 1: 'Trouser',
