@@ -2,4 +2,4 @@
 
                    hh           |           hh
 ------------------------------|----------------------------
-![](Fashion_MNIST_samples.png)! | [](Fashion_MNIST_samples.png)
+![alt](Fashion_MNIST_samples.png)! | [alt](Fashion_MNIST_samples.png)
