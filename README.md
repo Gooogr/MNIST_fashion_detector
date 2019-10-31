@@ -1,3 +1,3 @@
 ## Deploying Keras CNN model based on MNIST fashion dataset
 
-!(alt text)[mnist_fashion.gif]
+![alt text](mnist_fashion.gif)
