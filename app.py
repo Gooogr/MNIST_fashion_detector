@@ -6,9 +6,10 @@ import re
 import sys
 import os
 import base64
-from keras.models import load_model
-from keras.models import model_from_json
+from tensorflow.keras.models import load_model
+from tensorflow.keras.models import model_from_json
 import json
+
 
 model_weights_path = './models_files/mnist_fashion_model.h5'
 model_json_path = './models_files/mnist_fashion_model.json'
